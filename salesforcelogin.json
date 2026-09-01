@@ -1,0 +1,11 @@
+
+[{
+    "TestCaseID":"Tc001",
+    "Email":"dilipkumar.rajendran@testleaf.com",
+    "Password":"TestLeaf@2025"
+},
+{
+    "TestCaseID":"Tc002",
+    "Email":"yuvarani.sekar@testleaf.com",
+    "Password":"Testleaf@2027"
+}]
