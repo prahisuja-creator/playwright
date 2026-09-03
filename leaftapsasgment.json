@@ -1,0 +1,16 @@
+[{
+    "TestCaseID":"Tc001",
+    "UserName":"Demosalesmanager",
+    "Password":"crmsfa",
+    "CompanyName":"CTS",
+    "FirstName":"Prahina",
+    "LastName":"Rajasekaran",
+    "SouceDropdown":"Direct Mail",
+    "MarketCampgDrpdwn":"Demo Marketing Campaign",
+    "IndstryDrpdwn":"General Services",
+    "PrefCurr":"INR - Indian Rupee",
+    "Country":"India",
+    "State":"TAMILNADU"
+
+}
+]
